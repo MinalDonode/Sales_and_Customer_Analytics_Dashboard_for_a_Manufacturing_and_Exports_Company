@@ -6,7 +6,7 @@ This project uses Power BI to analyze sales performance and customer behavior fo
 
 ## **Dashboard Overview**
 
-![Artek Dashboard](Report_Pages/Artek_3.jpg)
+![Artek Dashboard](Report_Pages/Artek_3.png)
 
 ## **Dataset Information**
 
